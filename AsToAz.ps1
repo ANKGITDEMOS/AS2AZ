@@ -20,7 +20,7 @@ foreach($vm in $vmList){
      $vm.Name + ' already in zone ' + $vm.Zones
      continue
     }
-    $vm.Name + 'should not reach'
+    
 }
 
 foreach($vm in $vmList){
