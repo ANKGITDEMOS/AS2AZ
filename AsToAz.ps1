@@ -1,7 +1,7 @@
 ﻿
 
-$subscriptionId="3a647977-f78c-47f0-82c2-fe4d8e60bb77" #Set to your subscription id where the VM is created
-$location = "SouthEastAsia" #VM Location
+$subscriptionId="XXXXXXXXX" #Set to your subscription id where the VM is created
+$location = "XXXXXXX" #VM Location
 
 
 #Login to the Azure
